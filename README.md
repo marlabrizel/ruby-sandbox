@@ -1,4 +1,4 @@
 ruby-sandbox
 ============
 
-Ruby practice
+This repository is for basic exercises as I teach myself Ruby
